@@ -29,7 +29,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>vn.com.cathayins.signin</string>
+<string>vn.com.cathaylife.signin</string>
 <key>bundle-version</key>
 <string>1.0.8</string>
 <key>kind</key>
@@ -42,6 +42,7 @@
 </dict>
 
 </plist>
+
 
 
 
