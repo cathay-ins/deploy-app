@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://raw.githubusercontent.com/cathay-ins/deploy-app/main/CathayInsVNiOSeSignIn.ipa</string>
+<string>https://raw.githubusercontent.com/cathay-ins/deploy-app/main/CathayLifeVNiOSeSignIn.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -42,6 +42,7 @@
 </dict>
 
 </plist>
+
 
 
 
